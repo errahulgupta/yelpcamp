@@ -1,0 +1,3 @@
+<!--<% if(currentUser && campground.author.id.equals(currentUser._id)) { %>-->
+<% if(currentUser && comment.author.id.equals(currentUser._id)) { %>
+<% } %>
